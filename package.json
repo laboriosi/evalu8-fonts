@@ -1,0 +1,26 @@
+{
+  "name": "@marcos-laboriosi/evalu8-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "prepare": "husky install",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-laboriosi/evalu8-fonts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-laboriosi/evalu8-fonts/issues"
+  },
+  "homepage": "https://github.com/marcos-laboriosi/evalu8-fonts#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "standard-version": "^9.3.2"
+  }
+}
