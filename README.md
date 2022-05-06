@@ -29,7 +29,7 @@ yarn add @laboriosi/evalu8-fonts
 ## Changelog
 
 We provide a full change log generated using our conventional commits:
-[CHANGELOG.md](https://github.com/marcos-laboriosi/evalu8-fonts/blob/main/CHANGELOG.md)
+[CHANGELOG.md](https://github.com/laboriosi/evalu8-fonts/blob/main/CHANGELOG.md)
 
 ## FAQ
 
