@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcos-laboriosi/evalu8-fonts.git"
+    "url": "git+https://github.com/laboriosi/evalu8-fonts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcos-laboriosi/evalu8-fonts/issues"
+    "url": "https://github.com/laboriosi/evalu8-fonts/issues"
   },
-  "homepage": "https://github.com/marcos-laboriosi/evalu8-fonts#readme",
+  "homepage": "https://github.com/laboriosi/evalu8-fonts#readme",
   "devDependencies": {
     "husky": "^7.0.4",
     "standard-version": "^9.3.2"
