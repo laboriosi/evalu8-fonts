@@ -1,26 +1,33 @@
-<h1 align="center">@marcos-laboriosi/fonts</h1>
+<h1 align="center">@laboriosi/fonts</h1>
 
 ## Description
+
 This is a project with the fonts of Evalu8
 
 ## How to install
+
 #### 1. First, you need to add at the root of your project a .npmrc with follow content:
 
 ```
-@marcos-laboriosi:registry=https://npm.pkg.github.com
+@laboriosi:registry=https://npm.pkg.github.com
 ```
 
 #### 2. To install that package on you project, run the command below:
 
 #### npm
+
 ```shell
-npm i @marcos-laboriosi/evalu8-fonts
+npm i @laboriosi/evalu8-fonts
 ```
+
 #### yarn
+
 ```shell
-yarn add @marcos-laboriosi/evalu8-fonts
+yarn add @laboriosi/evalu8-fonts
 ```
+
 ## Changelog
+
 We provide a full change log generated using our conventional commits:
 [CHANGELOG.md](https://github.com/marcos-laboriosi/evalu8-fonts/blob/main/CHANGELOG.md)
 
@@ -30,7 +37,7 @@ We provide a full change log generated using our conventional commits:
 
 GitHub Package Registry requires to be logged at NPM even for public packages. See below:
 
-> To authenticate by logging in to npm, use the npm login command, replacing USERNAME with your GitHub username, TOKEN with your personal access token,  and PUBLIC-EMAIL-ADDRESS with your email address.
+> To authenticate by logging in to npm, use the npm login command, replacing USERNAME with your GitHub username, TOKEN with your personal access token, and PUBLIC-EMAIL-ADDRESS with your email address.
 
 ```
 $ npm login --scope=@OWNER --registry=https://npm.pkg.github.com
